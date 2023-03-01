@@ -8,4 +8,4 @@ main(
   
   /*Fin de la seccion de variables*/
   
-)
+  }
